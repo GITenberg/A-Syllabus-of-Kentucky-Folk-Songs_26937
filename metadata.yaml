@@ -1,0 +1,32 @@
+_repo: A-Syllabus-of-Kentucky-Folk-Songs_26937
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Combs, Josiah Henry
+    birthdate: 1886
+    deathdate: 1960
+    gutenberg_agent_id: '32348'
+    url: http://www.gutenberg.org/2009/agents/32348
+  - agent_name: Shearin, Hubert G. (Hubert Gibson)
+    birthdate: 1878
+    gutenberg_agent_id: '32347'
+    url: http://www.gutenberg.org/2009/agents/32347
+description: ''
+gutenberg_issued: '2008-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26937'
+  lccn: '97208980'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folk poetry, American -- Kentucky -- Themes, motives'
+- !lcsh 'Kentucky -- Songs and music'
+- !lcc 'PS'
+title: A Syllabus of Kentucky Folk-Songs
+url: http://www.gutenberg.org/ebooks/26937
